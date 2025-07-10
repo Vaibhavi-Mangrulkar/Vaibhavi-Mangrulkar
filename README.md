@@ -4,7 +4,7 @@
 🌱 I’m currently learning Web Development<br>
 💞 I’m looking to collaborate on Projects<br>
 📫 How to reach me vaibhavimangrulkar00@gmail.com<br>
-😄 Pronouns: Vab
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavi-mangrulkar-7b0793285/)
